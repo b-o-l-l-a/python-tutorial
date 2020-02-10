@@ -20,7 +20,7 @@ cd python-tutorial
 pipenv install
 ```
 
-#### Important Tools
+### Important Tools
 **github**: Used for _version control_ of software development projects. Sometimes, multiple people are developing different pieces of functionality in the _same_ project. Github allows all developers to "push" changes they've created into the project, and "pull" changes that others have made, among other things
 <br/><br/>**Git Bash / Terminal**: An interface that you can use to run commands on your computer
 <br/><br/>**pip**: A "package management system" to install and manage software packages (aka libraries) written in Python. The Python you install from [this page](https://www.python.org/downloads/) doesn't have _all_ the functionality you may want as a developer. People have developed _third-party packages_ (or _libraries_) which focus on a particular function; these packages can be installed through `pip`
