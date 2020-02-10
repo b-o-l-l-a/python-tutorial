@@ -10,7 +10,7 @@ At some point, we'll get more detailed, step-by-step instructions on each of the
 - Create a [github](https://github.com/) account
 - If on Windows, download [Git Bash](https://gitforwindows.org/)
 - Download and install [Python](https://www.python.org/downloads/). Make sure it is version 3.7 or greater
-- Install [`pip`](https://pip.pypa.io/en/stable/installing/) onto your machine. `pip`
+- Install [`pip`](https://pip.pypa.io/en/stable/installing/) onto your machine.
 - Install [`pipenv`](https://pipenv.kennethreitz.org/en/latest/install/#installing-pipenv) 
 - Run the following commands (in order) on your Terminal (on a Mac) or Git Bash (on Windows)
 
