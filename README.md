@@ -14,7 +14,8 @@ At some point, we'll get more detailed, step-by-step instructions on each of the
 - Install [`pipenv`](https://pipenv.kennethreitz.org/en/latest/install/#installing-pipenv) 
 - Run the following commands (in order) on your Terminal (on a Mac) or Git Bash (on Windows)
 
-```git clone https://github.com/b-o-l-l-a/python-tutorial.git
+```
+git clone https://github.com/b-o-l-l-a/python-tutorial.git
 cd python-tutorial
 pipenv install
 ```
