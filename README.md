@@ -5,7 +5,7 @@ This tutorial covers step-by-step code snippets (and associated explanations) fo
 - Creating new columns in the DataFrame to make it appropriate for analysis
 
 ### In order to use this repo, you must do the following beforehand
-At some point, we'll get more detailed, step-by-step instructions on each of the following. In the meantime, this provides a list of tasks needed to get started. Below this list, you'll find definitions to each of the required tools.
+At some point, we'll get more detailed, step-by-step instructions on each of the following. In the meantime, this provides a list of tasks needed to get started. Below this list, you'll find definitions to each of the required tools, if you're not familiar
 
 - Create a [github](https://github.com/) account
 - If on Windows, download [Git Bash](https://gitforwindows.org/)
