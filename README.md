@@ -16,4 +16,4 @@ The purpose is to get users up and running on their own analyses as quickly as p
 - If on Windows, download [Git Bash](https://gitforwindows.org/)
 - Run `git clone https://github.com/b-o-l-l-a/python-tutorial.git` in your Terminal (on a Mac) or Git Bash (on Windows)
 
-## Click on the `tutorial-1-read_csv_to_df_operations.ipynb` to get started
+## Click on the [`tutorial-1-read_csv_to_df_operations.ipynb`](https://github.com/b-o-l-l-a/python-tutorial/blob/step-1-csv/tutorial-1-read_csv_to_df_operations.ipynb) to get started
