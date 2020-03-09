@@ -9,7 +9,6 @@ The purpose is to get users up and running on their own analyses as quickly as p
 *This is a work in progress. Hoping to add in the below features:*
 - Resources for downloading/using Python 3.x, `pip`, and `git`
 - A "do-it-yourself" branch that asks questions that require the user to perform the operations covered
-- A branch for loading in a PDF, and programmatically extracting data from it.
 
 ### In order to use this repo, you must:
 - Create a Github account
